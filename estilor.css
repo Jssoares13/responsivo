@@ -1,0 +1,27 @@
+
+@media  screen and (max-width:618px) {
+    
+
+body{
+    background-color: black;
+
+}
+
+header{
+    
+    line-height: 50px;
+    display: flex;
+    flex-direction: column;
+
+
+
+}
+menu{
+    line-height: 30px;
+    
+}
+
+}
+
+
+

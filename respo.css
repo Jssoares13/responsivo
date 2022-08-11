@@ -1,0 +1,10 @@
+@media screen and (max-width:432px){
+
+header{
+    
+    line-height: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+}
